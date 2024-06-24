@@ -1,0 +1,14 @@
+{
+    "id": "org.hamak.mangareader.providers.onma",
+    "name": "ONMA",
+    "baseUrl": "https://www.onma.top/",
+    "sExt": "ONMA",
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+        "Referer": "https://www.onma.top/"
+    },
+    "sorts": ["الأحدث", "الأكثر مشاهدة", "الأبجدي"],
+    "sortUrls": ["latest", "popular", "title"],
+    "genre": ["أكشن", "مغامرات", "كوميدي", "خيال", "رومانسي", "مدرسي", "حياة مدرسية", "خارق للطبيعة", "دراما", "رياضة", "تاريخي", "غموض", "فنون قتالية", "شريحة من الحياة", "سينين", "شونين", "جوسي", "حريم"],
+    "genreUrls": ["action", "adventure", "comedy", "fantasy", "romance", "school", "school_life", "supernatural", "drama", "sports", "historical", "mystery", "martial_arts", "slice_of_life", "seinen", "shounen", "josei", "harem"]
+}
